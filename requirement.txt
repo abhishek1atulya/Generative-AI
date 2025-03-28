@@ -1,0 +1,12 @@
+langchain  # Core library for building applications with LLMs
+langchain-core  # Essential components of LangChain framework
+openai  # OpenAI API integration for LLMs
+langchain-anthropic  # Integration with Anthropic AI models
+langchain-google-genai  # Google Gemini (PaLM) model integration
+google-generativeai  # Google Generative AI utilities
+langchain-huggingface  # Hugging Face model integration
+transformers  # Library for pre-trained NLP models from Hugging Face
+huggingface-hub  # Hub for managing Hugging Face models
+python-dotenv  # Environment variable management
+numpy  # Numerical computing library
+scikit-learn  # Machine learning utilities
