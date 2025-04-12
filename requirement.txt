@@ -10,3 +10,5 @@ huggingface-hub  # Hub for managing Hugging Face models
 python-dotenv  # Environment variable management
 numpy  # Numerical computing library
 scikit-learn  # Machine learning utilities
+libmagic
+Chroma
